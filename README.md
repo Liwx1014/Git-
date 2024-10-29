@@ -48,7 +48,6 @@
   - 合并上游更新到本地主分支（假设主分支名为 `main`）
     ```bash
     git checkout main
-    ```
     git merge upstream/main
     ```
   - 推送合并后的更改到你的远程仓库，如果创建了新分支，则使用新分支名
